@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 No momento estou procurando uma vaga<br>🌱 React-Js
+🔭 Em busca de uma vaga<br>🌱 React.Js
 
 
 ## 🌐 Socials:
