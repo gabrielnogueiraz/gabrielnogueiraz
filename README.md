@@ -1,18 +1,12 @@
-# 💫 About Me:
-🔭 Em busca de uma vaga<br>🌱 React.Js
+
+# Gabriel Nogueira
+
+[![Linkedin Badge](https://img.shields.io/badge/-Gabriel%20Nogueira-00875f?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/gabrielnogueiraz/) 
+[![Gmail Badge](https://img.shields.io/badge/-gabriel.nogueira00810@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.nogueira00810@gmail.com)](mailto:gabriel.nogueira00810@gmail.com)
+
+Enthusiast of the best web & mobile development technologies.
+
+I am a professional passionate about the world of web and mobile development, immersed body and soul in this creative journey. Driven by the constant search for improvement, I am tirelessly dedicated to acquiring new skills, exploring emerging technologies and delivering exceptional digital solutions. With an eye for the smallest details, I am committed to creating impactful experiences that transcend expectations and leave a lasting mark on the online universe.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/_gabrielnogueiraz/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/https:/www.linkedin.com/in/gabriel-nogueira-68162b243/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gabrielnogueiraz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gabrielnogueiraz&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielnogueiraz&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=gabrielnogueiraz&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+"In the midst of adversity, stoic willpower emerges, turning challenges into opportunities and obstacles into stepping stones to success."
