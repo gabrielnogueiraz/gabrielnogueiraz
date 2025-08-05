@@ -1,4 +1,6 @@
-I'm Gabriel — I like fast code, clean UIs, startup ideas, automating the boring stuff, and obsessing over how things *should* work.
+I'm Gabriel 
+
+I like fast code, clean UIs, startup ideas, automating the boring stuff, and obsessing over how things *should* work.
 
 I spend most of my time building Toivo — a productivity system that thinks with you — and reprogramming how accountants work behind the scenes.
 
