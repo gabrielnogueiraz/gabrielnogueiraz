@@ -1,17 +1,7 @@
+I'm Gabriel — I like fast code, clean UIs, startup ideas, automating the boring stuff, and obsessing over how things *should* work.
 
-# Gabriel Nogueira
+I spend most of my time building Toivo — a productivity system that thinks with you — and reprogramming how accountants work behind the scenes.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00875f?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielnogueiraz/)
-[![Email](https://img.shields.io/badge/-gabriel.nogueira00810@gmail.com-00875f?style=flat-square&logo=gmail&logoColor=white)](mailto:gabriel.nogueira00810@gmail.com)
+I learn by doing, break things often, and chase that feeling when something finally clicks.
 
-Fullstack dev. Performance obsessive.  
-Building tools that think, learn, and move fast.
-
-Currently crafting **Toivo** — a new kind of productivity.  
-Also engineering workflows that make accounting feel... invisible.
-
-// intuition meets architecture
-
-
-> Creating systems that feel like magic,
-> with code that barely leaves a trace.
+Trying to make something big. Even if I have to rebuild it a hundred times.
