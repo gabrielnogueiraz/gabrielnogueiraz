@@ -1,4 +1,4 @@
-I'm Gabriel 
+👋 I'm Gabriel 
 
 I like fast code, clean UIs, startup ideas, automating the boring stuff, and obsessing over how things *should* work.
 
